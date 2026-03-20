@@ -6,3 +6,5 @@ function reverseCheck(str){
 console.log(reverseCheck("Mithrah Soft Employee"));
 console.log(reverseCheck("palindrome"))
 console.log(reverseCheck("busy"));
+console.log(reverseCheck("Happy"));
+console.log(reverseCheck("Javascript"));
