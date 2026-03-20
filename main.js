@@ -9,3 +9,4 @@ console.log(reverseCheck("busy"));
 console.log(reverseCheck("Happy"));
 console.log(reverseCheck("Javascript"));
 console.log(reverseCheck("golang"))
+console.log(reverseCheck("React"));
