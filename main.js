@@ -3,4 +3,4 @@ function reverseCheck(str){
 
 }
 
-console.log(reverseCheck("Hello world!"))
+console.log(reverseCheck("palindrome"))
